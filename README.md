@@ -1,4 +1,4 @@
-# ProductHunt_clone_with_-Bubble.io
+# ProductHunt_clone_with_Bubble.io
 
 ``Product Hunt``: Bootcamp Task 2 from AIRDEV Bootcamp.
 
