@@ -1,6 +1,6 @@
 # ProductHunt_clone_with_Bubble.io
 
-``Product Hunt``: Bootcamp Task 2 from AIRDEV Bootcamp.
+``Product Hunt``: Bootcamp Task 2 from AIRDEV Bootcamp with an assignment result of 83%.
 
 Instructions: [Airdev Bootcamp Exercise 2.pdf](https://github.com/alexmeurant/ProductHunt_clone_with_-Bubble.io/files/11253458/Airdev.Bootcamp.Exercise.2.pdf)
 
